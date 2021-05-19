@@ -1,0 +1,12 @@
+Human 9 1 97 Harold
+Human 8 8 97 David
+Human 6 8 97 Clare
+Monster 5 4 91 3
+Monster 4 0 91 3
+Monster 9 3 94 2
+Dragon 8 9 100 true
+Dragon 8 3 97 false
+Stone 2 8
+Stone 8 2
+Hole 6 9 14
+Hole 9 7 8
